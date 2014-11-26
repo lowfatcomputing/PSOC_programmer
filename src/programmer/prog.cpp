@@ -24,6 +24,7 @@
 #include <string.h>
 #include <string>
 
+#include "getopt.h"
 #include "usb.h"
 #include "utils.h"
 #include "Programmer.h"
